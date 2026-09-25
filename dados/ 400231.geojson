@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": " 400231",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32722" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fid": 7017.0, "COMPR_M": 689.2, "CLASSE": "04 - Longa", "CD_FAZ": " 400231", "TALHOES": "1", "FAZ_tAL": "400234001, 400231001", "ID_LINHA": 82910 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 408264.166258010431193, 7620691.965355847030878 ], [ 408702.59421290748287, 7620160.464688795618713 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 7018.0, "COMPR_M": 508.63, "CLASSE": "03 - Média", "CD_FAZ": " 400231", "TALHOES": "1", "FAZ_tAL": "400234001, 400231001", "ID_LINHA": 82911 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 408379.264229476102628, 7620554.790803672745824 ], [ 408702.827732541481964, 7620162.538859441876411 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 7019.0, "COMPR_M": 508.63, "CLASSE": "03 - Média", "CD_FAZ": " 400231", "TALHOES": "1", "FAZ_tAL": "400234001, 400231001", "ID_LINHA": 82912 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 408380.42135361477267, 7620555.745300255715847 ], [ 408703.984856681025121, 7620163.493356025777757 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 7020.0, "COMPR_M": 287.25, "CLASSE": "02 - Curta", "CD_FAZ": " 400231", "TALHOES": "1", "FAZ_tAL": "400234001, 400231001", "ID_LINHA": 82913 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 408521.485969197296072, 7620387.091713692061603 ], [ 408704.218376315373462, 7620165.567526675760746 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 7021.0, "COMPR_M": 287.25, "CLASSE": "02 - Curta", "CD_FAZ": " 400231", "TALHOES": "1", "FAZ_tAL": "400234001, 400231001", "ID_LINHA": 82914 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 408522.643093336897437, 7620388.046210275962949 ], [ 408705.375500454858411, 7620166.522023256868124 ] ] ] } }
+]
+}

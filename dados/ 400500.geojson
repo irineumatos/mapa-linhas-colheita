@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": " 400500",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32722" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fid": 8.0, "COMPR_M": 274.81, "CLASSE": "02 - Curta", "CD_FAZ": " 400500", "TALHOES": "1", "FAZ_tAL": "400499001, 400500001", "ID_LINHA": 151387 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 418461.020236705313437, 7641005.95622400380671 ], [ 418692.551724698452745, 7640858.086383890360594 ] ] ] } }
+]
+}
